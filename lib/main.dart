@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:multi_vendors_ecommerce/core/commons/utils/text_scale_wrapper.dart';
-import 'package:multi_vendors_ecommerce/core/routes/app_routes.dart';
 import 'package:multi_vendors_ecommerce/features/splash/screens/splash_screen.dart';
 
 void main() {
